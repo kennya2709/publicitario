@@ -1,3 +1,4 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
@@ -9,7 +10,16 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
+  
 );
+
+const texto = () => {
+  return (
+      <h1>Bienvenidos Alumnos</h1>
+    );
+}
+ 
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

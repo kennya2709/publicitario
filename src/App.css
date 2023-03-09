@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.nav{
+  color: red;
+}
+
+/*estilo de los iconos -icon*/
+ion-icon{
+  font-size: 30px;
+}
+
+
