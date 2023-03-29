@@ -1,0 +1,21 @@
+h4{
+    color: rgb(255, 255, 255);
+    font-family: century ;
+    font-weight:bold ;
+    text-align: center;
+    background-color:rgb(201, 187, 0) ;
+}
+.container{
+    width:100%;
+}
+p{
+    color:rgb(255, 255, 255);
+    text-align: justify;
+    font-family: century;
+    font-size: 20px;
+}
+
+.imagenes{
+    height: 10%;
+    width: 10%;
+}

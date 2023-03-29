@@ -7,10 +7,12 @@ import {
   CarouselCaption
 } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './style.css';
+
 
 const items = [
   {
-    src:require('../imagenes/logo.png'),   
+    src:require('../imagenes/logo.png') ,   
    
   },
   {
